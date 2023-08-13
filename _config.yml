@@ -12,7 +12,7 @@ description: >
 
 theme: minima
 
-paginate: 5
+#paginate: 5
 
 plugins:
   - jekyll-feed
