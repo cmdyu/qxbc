@@ -17,7 +17,6 @@ paginate: 2
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-paginate
 
 # Theme-specific settings
 
