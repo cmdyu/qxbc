@@ -7,7 +7,7 @@ lang: zh
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  编程、人工智能、低代码等领域高质量的内容分享
+  专注人工智能领域高质量内容分享
 
 # Build settings
 
