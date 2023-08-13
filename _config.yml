@@ -2,6 +2,7 @@ title: 文本魔术
 author:
   name: cmdyu
   email: jncxy@qq.com
+lang: zh
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
