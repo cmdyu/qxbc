@@ -12,11 +12,12 @@ description: >
 
 theme: minima
 
-paginate: 2
+paginate: 5
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
 
 # Theme-specific settings
 
