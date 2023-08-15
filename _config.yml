@@ -9,6 +9,9 @@ lang: zh
 description: >
   找到人工智能技术的正确打开方式
 
+# Google Analytics
+google_analytics: G-WCWSMQ6HVX
+
 # Build settings
 
 theme: minima
