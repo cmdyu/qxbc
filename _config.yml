@@ -1,7 +1,7 @@
 title: 文本魔术
-author:
-  name: 于司令
-  email: jncxy@qq.com
+#author:
+#  name: 于司令
+#  email: jncxy@qq.com
 lang: zh
 
 # The `>` after `description:` means to ignore line-breaks until next key.
