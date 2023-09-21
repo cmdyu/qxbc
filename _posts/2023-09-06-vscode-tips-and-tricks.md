@@ -13,3 +13,4 @@ categories: vscode
 - 快捷键 Ctrl + L 能实现向下选中一行
 - 可以用View: Focus Other Side in Active Editor 命令在用View: Toggle Split Editor in Group命令或Volar: Split <script>, <template>, <style> Editors命令进行组内拆分后的窗口间跳转
 - 在命令输入框中输入 @: ，能分类列出当前文件中的符号（symbol），如classes、functions、variables等
+- 用Volar: Vue: Find File References命令能列出引用了当前文件的文件
