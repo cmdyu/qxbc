@@ -15,3 +15,4 @@ categories: vscode
 - 在命令输入框中输入 @: ，能分类列出当前文件中的符号（symbol），如classes、functions、variables等
 - 用Volar: Vue: Find File References命令能列出引用了当前文件的文件
 - 在命令输入框中输入以 # 开头的内容，就可以在工作区范围里全局搜索标识符，光标停留在某个标识符上时，按快捷键 Ctrl + T，可以实现在工作区范围内搜索该标识符的定义，这个对应的命令名叫：Go to Symbol in Workspace...
+- 自动折行命令 View: Toggle Word Wrap，快捷键 Alt + Z
