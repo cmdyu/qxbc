@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 关注公众号，了解更多
+title: 关于我们
 permalink: /about/
 ---
-有问题可在公众号上留言，我会及时回复
+详见公众号
 
-![文本魔术公众号](/assets/wx-qrcode.jpg)
+![公众号](/assets/wx-qrcode.jpg)
