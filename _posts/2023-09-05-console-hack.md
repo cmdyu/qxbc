@@ -4,6 +4,7 @@ title: console hack
 ---
 
 - open other site in iframe
+
 ```javascript
 const ORIGIN = 'https://eloquentjavascript.net'
 const FRAME_NAME = 'eljs'
@@ -28,6 +29,7 @@ if (location.origin === ORIGIN) {
 ```
 
 - extract gitlab issue
+
 ```javascript
 $('.issue-title-text').each((k, v) => {
 	var p = document.createElement('p');
@@ -37,6 +39,7 @@ $('.issue-title-text').each((k, v) => {
 ```
 
 - doc-menu-outline
+
 ```javascript
 (hosts => {
     const {hostname} = location
@@ -112,6 +115,7 @@ $('.issue-title-text').each((k, v) => {
 ```
 
 - medium-add-to-reading-list
+
 ```javascript
 const items = document.querySelectorAll('button[aria-controls="addToCatalogBookmarkButton"]')
 
@@ -131,6 +135,7 @@ addToReadingList(1000)
 ```
 
 - Batch clear youtube watch later
+
 ```javascript
 function getContinuationItems(x) {
     if (x.continuationItemRenderer) {
@@ -259,16 +264,19 @@ fetch("https://www.youtube.com/youtubei/v1/browse?key=AIzaSyAO_FJ2SlqU8Q4STEHLGC
 ```
 
 - Expand the entire menu on the left of the vscode api documentation (展开vscode官网api文档左侧全部菜单)
+
 ```javascript
 // go to https://code.visualstudio.com/api/, and execute the following code in DevTools console
 $$('.panel ul').forEach(x => {x.classList.add('in')})
 ```
 - Batch unstar github repo
+
 ```javascript
 for await (x of $$('.js-toggler-container .starred button')) { await new Promise(r => setTimeout(r, 500)); x.click() }
 ```
 
 - Batch unfollow twitter following（批量取消twitter关注）
+
 ```javascript
 // go to https://twitter.com/[userName]/following, and execute the following code in DevTools console
 (async function twtterBatchUnfollow() {
