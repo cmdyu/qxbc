@@ -9,7 +9,7 @@ permalink: /l/
 
 [DZone: Programming & DevOps news, tutorials & tools](https://dzone.com/)
 
-[https://www.worthe-it.co.za/ On this site, I share projects I'm working on, and I write articles (usually about software engineering](https://www.worthe-it.co.za/
+[On this site, I share projects I'm working on, and I write articles (usually about software engineering](https://www.worthe-it.co.za/)
 
 ## typescript
 
