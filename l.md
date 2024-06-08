@@ -11,6 +11,8 @@ permalink: /l/
 
 [On this site, I share projects I'm working on, and I write articles (usually about software engineering](https://www.worthe-it.co.za/)
 
+[https://stackoverflow.blog/](https://stackoverflow.blog/)
+
 ## typescript
 
 [https://interviewer.live/category/typescript/](https://interviewer.live/category/typescript/)
