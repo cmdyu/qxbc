@@ -13,6 +13,9 @@ permalink: /l/
 
 [https://stackoverflow.blog/](https://stackoverflow.blog/)
 
+[https://tsh.io/blog/:Guides focused on solving
+business problems with software](https://tsh.io/blog/)
+
 ## typescript
 
 [https://interviewer.live/category/typescript/](https://interviewer.live/category/typescript/)
