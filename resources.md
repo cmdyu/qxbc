@@ -4,6 +4,8 @@ title: VSCode源码分析参考资料
 permalink: /resources/
 ---
 
+[文召博客上的vscode 源码解析系列文章](https://www.wendell.fun/tags/vscode)
+
 [https://github.com/fzxa/VSCode-sourcecode-analysis](https://github.com/fzxa/VSCode-sourcecode-analysis)
 
 [匠心博客 vscode 定制开发 —— 基础准备](https://zhaomenghuan.js.org/blog/vscode-custom-development-basic-preparation.html)
