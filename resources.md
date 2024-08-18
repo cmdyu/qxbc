@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VS Code源码分析参考资料
+title: VSCode源码分析参考资料
 permalink: /resources/
 ---
 
