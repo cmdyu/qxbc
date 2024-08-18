@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows和苹果MacOS上的 vscode 翻页及上下滚动行快捷键
+title: Windows和苹果MacOS上的vscode翻页及上下滚动行快捷键
 ---
 
 VS Code有两种类型的翻页，一种是光标跟随的翻页，一种是光标不跟随的翻页，分别对应不同的快捷键。
