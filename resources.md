@@ -5,7 +5,9 @@ permalink: /resources/
 ---
 
 [VSCode Architecture Analysis - Electron Project Cross-Platform Best Practices
-](https://dev.to/ninglo/vscode-architecture-analysis-electron-project-cross-platform-best-practices-g2j)
+](https://dev.to/ninglo/vscode-architecture-analysis-electron-project-cross-platform-best-practices-g2j)  
+中文版  
+[VSCode 架构分析 - Electron 项目跨平台最佳实践](https://zhuanlan.zhihu.com/p/656007783)
 
 [Sihan Li博客上的vscode源码分析系列：分析了微服务架构、事件体系、资源管理、配置系统等](https://bistard.github.io/)
 
